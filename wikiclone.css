@@ -6,6 +6,10 @@
 
 #container {
 	margin: 0 auto;
+
+}
+.row {
+	margin: 0 auto;
 }
 
 header {
@@ -19,4 +23,38 @@ footer {
 a {
 	text-decoration: none;
 	width:20%;
+}
+
+img {
+	margin-left:5%;
+	margin-right:5%;
+	margin-bottom:2.5%;
+}
+
+/** header  **/
+
+p {
+	width: 90%;
+	font: 15px sans-serif;
+	margin: auto;
+	margin-bottom:10px;
+
+}
+
+/** footer  **/
+footer {
+font-size:10px;
+}
+
+ul {
+
+width:200px;
+margin:auto;
+list-style-type: none;
+
+}
+li {
+	text-decoration:none;
+	display:inline;
+	font-size:10px;
 }
